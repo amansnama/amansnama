@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently working on my PhD in Civil Engineering with a focus on Water Resouces and Hydrology.
+- 🔭 I’m currently working on a high resolution regional implementation of the Community Land Model version 5 (CLM5) over the Mississippi River Basin.
 <!--
 **amansnama/amansnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
